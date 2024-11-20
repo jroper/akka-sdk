@@ -1,5 +1,4 @@
 = Author your first Akka service
-:page-aliases: java:build-your-first-application.adoc[]
 
 include::ROOT:partial$include.adoc[]
 

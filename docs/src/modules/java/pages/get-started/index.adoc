@@ -1,0 +1,39 @@
+= Get started with Akka
+
+include::ROOT:partial$include.adoc[]
+
+== Set up your local development environment
+
+*Estimated time*: ⏱️ ~5 minutes
+
+Get everything you need to start developing, debugging and packing services into images on your local machine.
+
+xref:running-locally.adoc[Set up your local development environment]
+
+'''
+
+== Run your first service
+
+*Estimated time*: ⏱️ ~15 minutes
+
+Download and run a simple "Hello World!" REST service.
+
+xref:get-started/author-your-first-service.adoc[Run your first service]
+
+'''
+
+== Build a service from scratch
+
+*Estimated time*: ⏱️ ~30 minutes
+
+Follow along a tutorial that builds a service step-by-step, from the ground up.
+
+xref:get-started/shopping-cart-quickstart.adoc[Build a service from scratch]
+
+'''
+
+== Next steps
+
+. *Add more features*: Explore xref:concepts:architecture-model.adoc#_akka_components[other Akka components] to enhance your service.
+. *Explore other samples*: Discover more about Akka by exploring xref:samples.adoc[different use cases] for inspiration.
+. *Join the community*: Visit the xref:support:index.adoc[Support page] to find resources where you can connect with other Akka developers and expand your knowledge.

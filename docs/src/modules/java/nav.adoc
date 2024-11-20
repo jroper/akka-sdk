@@ -1,5 +1,8 @@
 * xref:index.adoc[Developing]
-** xref:author-your-first-service.adoc[Author your first service]
+** xref:get-started/index.adoc[Get started]
+*** xref:running-locally.adoc[Set up a local development environment]
+*** xref:get-started/author-your-first-service.adoc[Run your first service]
+*** xref:get-started/shopping-cart-quickstart.adoc[Build your first service from scratch]
 ** Components
 *** xref:event-sourced-entities.adoc[Event Sourced Entities]
 *** xref:key-value-entities.adoc[Key Value Entities]
